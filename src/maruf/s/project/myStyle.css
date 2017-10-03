@@ -1,0 +1,46 @@
+.root{
+    -fx-background-color: #ccccff;
+}
+
+.hbox{
+    -fx-background-color: #cccccc;
+    -fx-spacing: 10;
+    -fx-background-radius: 10;
+    -fx-border-color: #009999;
+    
+}
+
+.vbox{
+   -fx-background-color: #cccccc;
+    -fx-padding: 10;
+    -fx-spacing: 10;
+    -fx-background-radius: 10;
+    -fx-border-color: #009999; 
+}
+
+.label{
+    -fx-label-padding: 10;
+    -fx-font-size: 20px;    
+}
+.pane{
+    -fx-background-color: #00cccc;
+    -fx-padding: 10;
+    -fx-spacing: 10;
+    -fx-background-radius: 10;
+    -fx-border-color: #009999; 
+}
+
+.choicebox{
+    -fx-background-radius:10;
+}
+
+.inputbox{
+    -fx-background-radius: 5;
+    -fx-border-color: #009999; 
+     
+}
+
+.buttOn{
+    -fx-font-size: 15;
+    -fx-background-radius:5;
+}
